@@ -10,8 +10,6 @@ namespace CSharpPartOne
     {
         static void Main(string[] args)
         {
-            var a_number = 0;
-
 
         }
     }
