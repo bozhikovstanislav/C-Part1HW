@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRoot", "SquareRoot\Sq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeQuance", "SeQuance\SeQuance.csproj", "{D3CA5859-9DF3-445B-B996-7FB3D55D8267}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Age", "Age\Age.csproj", "{C987F1B6-155C-42E9-860D-3AE4EFABEDE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D3CA5859-9DF3-445B-B996-7FB3D55D8267}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3CA5859-9DF3-445B-B996-7FB3D55D8267}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3CA5859-9DF3-445B-B996-7FB3D55D8267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C987F1B6-155C-42E9-860D-3AE4EFABEDE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C987F1B6-155C-42E9-860D-3AE4EFABEDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C987F1B6-155C-42E9-860D-3AE4EFABEDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C987F1B6-155C-42E9-860D-3AE4EFABEDE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
