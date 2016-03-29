@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpPartOne", "CSharpPart
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintingNumbers", "PrintingNumbers\PrintingNumbers.csproj", "{7E219880-B997-4CC2-9A10-D52F05805CB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRoot", "SquareRoot\SquareRoot.csproj", "{50864A78-70FC-4EAF-9DFE-3FD16E3A0A93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeQuance", "SeQuance\SeQuance.csproj", "{D3CA5859-9DF3-445B-B996-7FB3D55D8267}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{7E219880-B997-4CC2-9A10-D52F05805CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E219880-B997-4CC2-9A10-D52F05805CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E219880-B997-4CC2-9A10-D52F05805CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50864A78-70FC-4EAF-9DFE-3FD16E3A0A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50864A78-70FC-4EAF-9DFE-3FD16E3A0A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50864A78-70FC-4EAF-9DFE-3FD16E3A0A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50864A78-70FC-4EAF-9DFE-3FD16E3A0A93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3CA5859-9DF3-445B-B996-7FB3D55D8267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CA5859-9DF3-445B-B996-7FB3D55D8267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CA5859-9DF3-445B-B996-7FB3D55D8267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CA5859-9DF3-445B-B996-7FB3D55D8267}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
