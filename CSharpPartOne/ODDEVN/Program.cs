@@ -12,7 +12,7 @@ namespace ODDEVN
             var isNumber = false;
             for (int i = 0; i < numberString.Length; i++)
             {
-                if(47<=(char)numberString[i]&&(char)numberString[i]<=58)
+                if(47<(char)numberString[i]&&(char)numberString[i]<=58)
                 {
                     isNumber = true;
                 }

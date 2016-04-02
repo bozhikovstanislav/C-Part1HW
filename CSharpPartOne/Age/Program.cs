@@ -10,7 +10,6 @@
             DateTime nowDateTime=DateTime.Now;
             DateTime birDateTime = DateTime.Parse(String.Format("{0:mm.dd.yyyy}",birDateof));
             var bmonth = birDateTime.Month;
-            var bdate = birDateTime.Date;
             var byear = birDateTime.Year;
             var nowyear = nowDateTime.Year;
             bool islessthen = bmonth > nowDateTime.Month;
