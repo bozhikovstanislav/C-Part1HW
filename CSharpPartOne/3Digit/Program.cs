@@ -10,40 +10,47 @@ namespace _3Digit
 
             if (number != null)
             {
-                
+
                 var isNumber = false;
-                
+
                 for (int i = 0; i < number.Length; i++)
                 {
-                    if (47 < (char)number[i] && (char)number[i] <= 58)
+                    if (47 < (char) number[i] && (char) number[i] < 58)
                     {
                         isNumber = true;
                     }
                 }
                 if (isNumber)
                 {
-                    if (number.Length <= 20)
+                    if (number.Length < 3)
                     {
-                        var nUmber = long.Parse(number);
+                        Console.WriteLine("false 0");
+
+                    }
+                    else
+                    {
+                        var nUmber = ulong.Parse(number);
+                        var arg0 = (nUmber/100)%10;
                         if (nUmber > 0)
                         {
-                         
-                            if ((nUmber/100)%10 == 7)
+                            if (arg0 == 7)
                             {
                                 Console.WriteLine("true");
 
                             }
                             else
                             {
-                                Console.WriteLine("false {0}", (nUmber/100)%10);
+                                Console.WriteLine("false " + arg0);
 
                             }
-
                         }
                     }
-                }
 
+                }
             }
         }
+
     }
 }
+
+
