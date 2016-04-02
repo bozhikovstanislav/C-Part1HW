@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointInCircle", "PointInCir
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime", "Prime\Prime.csproj", "{9C6B571E-E38A-4E43-B1B4-5A164E4B5FD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trapecoid", "Trapecoid\Trapecoid.csproj", "{DB7FDA33-EB6A-4953-B67D-570FE8E63F08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleRectangle", "CircleRectangle\CircleRectangle.csproj", "{47E243D8-9F7A-4519-B255-286F253DC83E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{9C6B571E-E38A-4E43-B1B4-5A164E4B5FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C6B571E-E38A-4E43-B1B4-5A164E4B5FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C6B571E-E38A-4E43-B1B4-5A164E4B5FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB7FDA33-EB6A-4953-B67D-570FE8E63F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB7FDA33-EB6A-4953-B67D-570FE8E63F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB7FDA33-EB6A-4953-B67D-570FE8E63F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB7FDA33-EB6A-4953-B67D-570FE8E63F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E243D8-9F7A-4519-B255-286F253DC83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E243D8-9F7A-4519-B255-286F253DC83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E243D8-9F7A-4519-B255-286F253DC83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E243D8-9F7A-4519-B255-286F253DC83E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
