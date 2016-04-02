@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourDigit", "FourDigit\Four
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointInCircle", "PointInCircle\PointInCircle.csproj", "{FD4B83B3-DF8D-490D-B296-8FAE0A5373B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime", "Prime\Prime.csproj", "{9C6B571E-E38A-4E43-B1B4-5A164E4B5FD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{FD4B83B3-DF8D-490D-B296-8FAE0A5373B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD4B83B3-DF8D-490D-B296-8FAE0A5373B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD4B83B3-DF8D-490D-B296-8FAE0A5373B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C6B571E-E38A-4E43-B1B4-5A164E4B5FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6B571E-E38A-4E43-B1B4-5A164E4B5FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6B571E-E38A-4E43-B1B4-5A164E4B5FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6B571E-E38A-4E43-B1B4-5A164E4B5FD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
