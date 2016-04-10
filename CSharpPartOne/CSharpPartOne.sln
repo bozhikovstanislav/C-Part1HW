@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpPartOne", "CSharpPartOne\CSharpPartOne.csproj", "{D82E6142-7509-422A-AF2D-C15F15D1ABF5}"
 EndProject
@@ -42,6 +42,16 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trapecoid", "Trapecoid\Trapecoid.csproj", "{DB7FDA33-EB6A-4953-B67D-570FE8E63F08}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleRectangle", "CircleRectangle\CircleRectangle.csproj", "{47E243D8-9F7A-4519-B255-286F253DC83E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TirdBit", "TirdBit\TirdBit.csproj", "{D502BE36-CC2B-4D30-A39C-87B1DB2888B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBit", "NBit\NBit.csproj", "{FB7E14A9-1B15-4C01-9FDD-FD00B17CDBD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoifyBit", "MoifyBit\MoifyBit.csproj", "{230AFD94-F3EF-4708-BAEE-53E038067AD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitExchange", "BitExchange\BitExchange.csproj", "{B1680DEF-BFD5-4446-B227-3A5AD778751E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitSwap", "BitSwap\BitSwap.csproj", "{E8CEBAEB-CBFF-48F4-94CA-385FC309BDE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +139,26 @@ Global
 		{47E243D8-9F7A-4519-B255-286F253DC83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47E243D8-9F7A-4519-B255-286F253DC83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47E243D8-9F7A-4519-B255-286F253DC83E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D502BE36-CC2B-4D30-A39C-87B1DB2888B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D502BE36-CC2B-4D30-A39C-87B1DB2888B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D502BE36-CC2B-4D30-A39C-87B1DB2888B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D502BE36-CC2B-4D30-A39C-87B1DB2888B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7E14A9-1B15-4C01-9FDD-FD00B17CDBD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7E14A9-1B15-4C01-9FDD-FD00B17CDBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7E14A9-1B15-4C01-9FDD-FD00B17CDBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7E14A9-1B15-4C01-9FDD-FD00B17CDBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230AFD94-F3EF-4708-BAEE-53E038067AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230AFD94-F3EF-4708-BAEE-53E038067AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230AFD94-F3EF-4708-BAEE-53E038067AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230AFD94-F3EF-4708-BAEE-53E038067AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1680DEF-BFD5-4446-B227-3A5AD778751E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1680DEF-BFD5-4446-B227-3A5AD778751E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1680DEF-BFD5-4446-B227-3A5AD778751E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1680DEF-BFD5-4446-B227-3A5AD778751E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8CEBAEB-CBFF-48F4-94CA-385FC309BDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8CEBAEB-CBFF-48F4-94CA-385FC309BDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8CEBAEB-CBFF-48F4-94CA-385FC309BDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8CEBAEB-CBFF-48F4-94CA-385FC309BDE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
