@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array", "Array", "{EE99A8DB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{6EB9F625-87F9-4BED-B402-7F3D43653C92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareArrays", "CompareArrays\CompareArrays.csproj", "{3DDBD3B7-8C82-4FF1-99CA-FA3DD6AC80B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharArray", "CharArray\CharArray.csproj", "{EE4B3D85-31FF-4637-866B-6FEABA4C1547}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,11 +27,21 @@ Global
 		{6EB9F625-87F9-4BED-B402-7F3D43653C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EB9F625-87F9-4BED-B402-7F3D43653C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EB9F625-87F9-4BED-B402-7F3D43653C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DDBD3B7-8C82-4FF1-99CA-FA3DD6AC80B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDBD3B7-8C82-4FF1-99CA-FA3DD6AC80B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDBD3B7-8C82-4FF1-99CA-FA3DD6AC80B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDBD3B7-8C82-4FF1-99CA-FA3DD6AC80B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4B3D85-31FF-4637-866B-6FEABA4C1547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4B3D85-31FF-4637-866B-6FEABA4C1547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4B3D85-31FF-4637-866B-6FEABA4C1547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4B3D85-31FF-4637-866B-6FEABA4C1547}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6EB9F625-87F9-4BED-B402-7F3D43653C92} = {EE99A8DB-C086-4BB3-AC18-524402273DDE}
+		{3DDBD3B7-8C82-4FF1-99CA-FA3DD6AC80B1} = {EE99A8DB-C086-4BB3-AC18-524402273DDE}
+		{EE4B3D85-31FF-4637-866B-6FEABA4C1547} = {EE99A8DB-C086-4BB3-AC18-524402273DDE}
 	EndGlobalSection
 EndGlobal
